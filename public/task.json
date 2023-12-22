@@ -1,0 +1,59 @@
+[
+    {
+      "img": "https://i.ibb.co/gZvRBw1/0-final-project-proposal-media-library-original-1600-900.webp",
+      "title": "Complete Project Proposal",
+      "description": "Crafting a visionary blueprint for success! Seamlessly weaving together insights, strategies, and aspirations into a compelling project proposal. This narrative encapsulates ambition, strategy, and innovation, painting a vivid picture of the journey ahead.",
+      "priority": "high",
+      "due_date": "2023-12-31",
+      "status": "in_progress"
+    },
+    {
+      "img": "https://i.ibb.co/xJnKTs7/market-research-trends.jpg",
+      "title": "Research Market Trends",
+      "description": "Embarking on an exploration of the market's pulse! Delve into the dynamic currents of industry trends, gathering vital data, and insights. This expedition fuels informed decisions, unlocking opportunities, and steering strategies towards the ever-evolving landscape of market dynamics",
+      "priority": "medium",
+      "due_date": "2023-12-28",
+      "status": "pending"
+    },
+    {
+      "img": "https://i.ibb.co/d25cvxG/15-Best-Sample-Follow-Up-Emails-to-Prospective-Clients.jpg",
+      "title": "Client Follow-up",
+      "description": "Navigating the path of client connection and commitment! This task involves nurturing relationships through timely and personalized follow-ups on recent proposals. It's about building rapport, addressing queries, and ensuring alignment, fostering trust, and paving the way for fruitful collaborations.",
+      "priority": "high",
+      "due_date": "2023-12-25",
+      "status": "in_progress"
+    },
+    {
+      "img": "https://i.ibb.co/0CPBVZw/Presentation-Blog-Banner.png",
+      "title": "Prepare Presentation",
+      "description": "Create slides for the upcoming team meeting.Crafting an immersive visual narrative! Weaving concepts, data, and ideas into a captivating presentation, it's more than just slides. It's an artful blend of information and engagement, transforming ideas into a dynamic story that resonates, educates, and inspires.",
+      "priority": "medium",
+      "due_date": "2023-12-30",
+      "status": "pending"
+    },
+    {
+      "img": "https://i.ibb.co/wWHHGwS/budget-planning-concept-banner-header-vector-23942217.jpg",
+      "title": "Review Budget Plan",
+      "description": "Review and finalize budget plan for next quarter.Unveiling the financial roadmap! This task involves meticulous scrutiny and refinement of the budget plan for the upcoming quarter. It's about aligning resources, optimizing strategies, and fine-tuning allocations to ensure a robust foundation for financial success.",
+      "priority": "high",
+      "due_date": "2023-12-27",
+      "status": "in_progress"
+    },
+    {
+        "img":"https://i.ibb.co/CV2y9PQ/Screenshot-2023-03-10-at-11-56-15-AM-1024x592.png",
+        "title": "Email Responses",
+        "description": "Respond to important client emails.Mastering the art of digital dialogue! Skillfully crafting tailored responses to pivotal client communications, ensuring promptness, clarity, and a personal touch. This task embodies effective communication, nurturing relationships, and fostering a sense of reliability and dedication.",
+        "priority": "low",
+        "due_date": "2023-12-28",
+        "status": "completed"
+      },
+    {
+      "img": "https://i.ibb.co/wpnZ8yK/training-banner-word-with-line-icon-vector-24292666.jpg",
+      "title": "Team Training Session",
+      "description": "Coordinate and schedule training session for team members.Empowering the team through knowledge exchange! Orchestrating a dynamic training session that fuels growth, collaboration, and skill enhancement. It's an immersive experience fostering camaraderie, honing expertise, and aligning everyone towards collective success.",
+      "priority": "medium",
+      "due_date": "2023-12-26",
+      "status": "completed"
+    }
+  ]
+  
